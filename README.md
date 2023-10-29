@@ -41,5 +41,6 @@ Artık CREDENTIAL_FILE_CONTENT bilgilerine sahip durumdayız. Şimdi tek yapmam�
 
 ![12](https://github.com/turedioglu/flutter-CICD-App-Distribution-For-Android/assets/32618134/c58e7ded-16f3-4fb7-8489-b60fd944a727)
 
+<img width="1191" alt="Ekran Resmi 2023-10-28 22 06 06" src="https://github.com/turedioglu/flutter-CICD-App-Distribution-For-Android/assets/32618134/1161ae16-ef57-4cd4-a83c-4173179d3f3b">
 
 
