@@ -2,7 +2,7 @@
 
 Flutter projesinde CICD sürecinin nasıl olduğunu inceleyelim.
 
-## Getting Started
+## Uygulamaya Başlarken
 
 Öncelikle Projeyi Firebase App Distribution ile paylaşmak istiyorsak. Firebase bağlantılarını gerçekleştirmeliyiz.
 
